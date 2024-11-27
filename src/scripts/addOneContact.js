@@ -11,4 +11,4 @@ export const addOneContact = async () => {
 
 addOneContact();
 
-console.log(addOneContact());
+console.log(await addOneContact());
